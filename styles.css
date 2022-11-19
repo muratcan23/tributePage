@@ -1,0 +1,29 @@
+.container {
+  height: 100%;
+  margin: 0.5% 0.25%;
+  border-radius: 1rem;
+  background-color: #b9a89f;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+figure {
+  background-color: aliceblue;
+  border-radius: 1rem;
+  text-align: center;
+}
+img {
+  border-radius: 1rem 1rem 0 0;
+  display: block;
+  max-width: 100%;
+}
+p {
+  text-align: center;
+  color: white;
+}
+ul {
+  display: flexbox;
+}
